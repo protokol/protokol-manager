@@ -68,7 +68,7 @@
     "ng-terminal": "~3.0.0-alpha",
     "ng-zorro-antd": "^11.0.0",
     "ngx-clipboard": "^14.0.0",
-    "rxjs": "~6.5.3",
+    "rxjs": "~7.1.0",
     "tslib": "^2.0.0",
     "uuid": "^8.3.0",
     "wif": "^2.0.6",
